@@ -4,7 +4,7 @@
 In this project, you will demonstrate your mastery of the following competencies:
 Write scripts using syntax and conventions in accordance with industry standard best practices
 Develop a fully functional program using industry-relevant tools
-###Scenario
+### Scenario
 
 You work for a small company that creates text-based games. You recently pitched your design ideas for a text-based adventure game to your team. Your team was impressed by all of your designs, and would like you to develop the game! You will be able to use the map and the pseudocode or flowcharts from your designs to help you develop the code for the game. In your code, you have been asked to include clear naming conventions for functions, variables, and so on, along with in-line comments. Not only will these help you keep track as you develop, but they will help your team read and understand your code. This will make it easier to adapt for other games in the future.
 
